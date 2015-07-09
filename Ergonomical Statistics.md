@@ -6,7 +6,7 @@
 - Example #3: [Type I and Type II errors, β, α, p-values, power and effect sizes](http://rpsychologist.com/d3/NHST/)
 - Example #4: [Playing with Fourier transform](http://bl.ocks.org/jinroh/7524988). Another example [here](http://toxicdump.org/stuff/FourierToy.swf).
 
-Most of these visualizations are created using D3.js—a visualization library for javascript. I know a programmer who may be willing to help us with creation of this kind of visualizations.
+Most of these visualizations are created using D3.js—a visualization library for javascript.
 
 ## Method #2: Animations
 
@@ -34,7 +34,7 @@ Animations below are mostly from geometry (except Fourier transform, which an su
 
     ![A geometry example](https://upload.wikimedia.org/wikipedia/commons/f/fd/Pappus_centroid_theorem_areas.gif)
 
-If you are concerned about whether statistical concepts can be visualized this way, my answer is yes. I would be willing to personally help visualize them.
+Statistical concepts can be visualized in the same manner.
 
 ## Method #3: Visualizations
 
@@ -48,24 +48,23 @@ If you are concerned about whether statistical concepts can be visualized this w
         ![](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/book-images/bryne3.png)
     Bryne's book is on geometry, but his approach is compatible with what we'd be doing on statistics. Reading his foreword is highly recommended; it is very much in alignment with our vision and I find it quite inspiring (concise and highlighted version of foreword is [here](http://clokman.com/hosting/SVP-Course/2014-UvA/Materials/Misc/Intro-Byrne.pdf)).
 
-        Bryne's book is a good example showing that everything can be visualized and made more ergonomic (including technical knowlede that would scare most people's attention away otherwise). To best of my knowlede, no one tried to make statistics as accessible this much using Bryne's approach, despite the great need. Once again, I would be willing to personally help visualize statistics in this manner.
+        Bryne's book is a good example showing that everything can be visualized and made more ergonomic (including technical knowlede that would scare most people's attention away otherwise). To best of my knowlede, no one tried to make statistics as accessible this much using Bryne's approach, despite the great need. 
 
 ## Method #4: Casual Language
 
-- Example: Andy Field's Books — This guy made an attempt to make statistics a bit more fun, and sold millions of books. His method was using clear language (although I find it debatable how clear it was, it at least *tried* to avoid jargon), and humor (which I found distracting). I did not find his approach effective for me, as it was still heavily text-based and only *supposed-to-be-fun* but not really fun in my opinion. However, the popularity of his books is a good indicator of how much a lighthearted and *ergonomic* approach is needed for statistics education.   
+- Example: Andy Field's Books — Andy Field made an attempt to make statistics a bit more fun, and sold millions of books. His method was using clear language (although I find it debatable how clear it was, he at least *tried* to avoid jargon), and humor (which I found distracting). I did not find his approach effective for me, as it was still heavily text-based and only *supposed-to-be-fun* but not really fun in my opinion. However, the popularity of his books is a good indicator of how much a lighthearted and *ergonomic* approach is needed for statistics education.   
     + [Discovering Statistics Using **SPSS** (and Sex, Drugs and Rock'n'roll) (original title)](https://books.google.nl/books/about/Discovering_Statistics_Using_SPSS.html?id=IY61Ddqnm6IC&redir_esc=y)
     + [Discovering Statistics Using **R** (and Sex, Drugs and Rock'n'roll) (original title)](https://books.google.nl/books/about/Discovering_Statistics_Using_SPSS.html?id=IY61Ddqnm6IC&redir_esc=y)
 
 ## Other Resources for Teaching Statistics
 - [Laerd statistics](https://statistics.laerd.com/) - A website for comprehensive statitics information in undestandable language. 
-    We may use it as an example and reasource for creating our text-based content.
 
 ---
 
 # II - Doing Statistics Ergonomically
 
-- [JASP](https://jasp-stats.org/) — This can be our homebrew statistics engine for our students:
-    A beautifully simple and open-source stats package that is being developed by UvA. "Slimmer than SPSS, more delicious than R". The software has instant gratification and ergonomics built at it's core (the demo video below is a must watch if you have ever used SPSS, and hated it); and has a context-sensitive help panel on the left side which can be customized for educational purposes. It's open source, and as far as I know, can be run on a web server. It's team is ["very keen to support the teaching of JASP"](https://jasp-stats.org/teaching-jasp/), and therefore, would be likely to support us if we would like to implement it to our website for educational purposes.
+- [JASP](https://jasp-stats.org/):
+    A beautifully simple and open-source stats package that is being developed by UvA. "Slimmer than SPSS, more delicious than R". The software has instant gratification and ergonomics built at it's core (the demo video below is a must watch if you have ever used SPSS, and hated it); and has a context-sensitive help panel on the left side which can be customized for educational purposes. It is also open source.
     [Demo of JASP](https://www.youtube.com/watch?v=CVuzc08_LyY)
 
 - [Tableau](http://get.tableau.com/trial/tableau-9-0.html?cid=70160000000YF0Q&ls=Paid%20Search&lsd=Google%20AdWords%20-%20Tableau%20-%20EMEA%20-%20Other%20-%20Free%20Trial&adgroup=Tableau%20-%20Exact&kw=tableau&adused=67742452822&distribution=search&gclid=CjwKEAjwzuisBRClgJnI4_a96zwSJACAEZKeuYOZ_65BWnMAIomEzEyLJdMw0gn4U-nQZybg9D9GlxoCIsTw_wcB):
@@ -75,7 +74,3 @@ If you are concerned about whether statistical concepts can be visualized this w
 - [Wolfram Alpha](https://www.wolframalpha.com/):
     Fast, efficient, and highly visual statistics engine for basic operations.
     [Example usage scenarios for statistics](https://www.wolframalpha.com/examples/Statistics.html)
-
----
-
-Please feel free to add your own content to this document.
