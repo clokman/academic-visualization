@@ -34,8 +34,6 @@ Animations below are mostly from geometry (except Fourier transform, which an su
 
     ![A geometry example](https://upload.wikimedia.org/wikipedia/commons/f/fd/Pappus_centroid_theorem_areas.gif)
 
-Statistical concepts can be visualized in the same manner.
-
 ## Method #3: Visualizations
 
 - Example: [Byrne's classical book](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/Euclid-Byrne.zip) on teaching euclides visually. 
