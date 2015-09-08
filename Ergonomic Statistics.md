@@ -55,7 +55,7 @@ Animations below are mostly from geometry and maths (except Fourier transform, w
     + [Discovering Statistics Using **R** (and Sex, Drugs and Rock'n'roll) (original title)](https://books.google.nl/books/about/Discovering_Statistics_Using_SPSS.html?id=IY61Ddqnm6IC&redir_esc=y)
 
 ## Other Resources for Teaching Statistics
-- [Laerd statistics](https://statistics.laerd.com/) - A website for comprehensive statitics information in undestandable language. 
+- [Laerd statistics](https://statistics.laerd.com/) - A website for comprehensive statistics information in understandable language. 
 
 ---
 
