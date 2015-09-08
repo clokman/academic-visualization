@@ -10,7 +10,7 @@ Most of these visualizations are created using D3.js—a visualization library f
 
 ## Method #2: Animations
 
-Animations below are mostly from geometry (except Fourier transform, which an subject of interest for statistics), but the method of visualization is applicable to statistical concepts and formulas.
+Animations below are mostly from geometry and maths (except Fourier transform, which an subject of interest for statistics as well, and not only for math/geometry), but the method of visualization is applicable to statistical concepts and formulas.
 
 - Example #1: Circles and radians 
 
