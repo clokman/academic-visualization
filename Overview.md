@@ -18,15 +18,16 @@
 
 
 ## Interfaces
-- [](http://clokman.com/hosting/SVP-Course/2015-UvA/Presentations/AVP_Workshop_Map-Public.swf)
+- [Class Interface 1](http://clokman.com/hosting/SVP-Course/2015-UvA/Presentations/AVP_Workshop_Map-Public.swf)
+- [Class Interface 2](http://www.clokman.com/hosting/P-Course/SP-Map-Public.swf)
 - See Presentations
 
 ## Static Visualizations
 
 ### Article Visualization
-- ![](http://samples.clokman.com/samples_files/png_7.png)
-- ![](http://samples.clokman.com/samples_files/png_6.png)
-- ![](http://samples.clokman.com/samples_files/png_8.png)
+![](http://samples.clokman.com/samples_files/png_7.png)
+![](http://samples.clokman.com/samples_files/png_6.png)
+![](http://samples.clokman.com/samples_files/png_8.png)
 
 ### Code Visualization
-- ![](http://samples.clokman.com/samples_files/png_11.png)
+![](http://samples.clokman.com/samples_files/png_11.png)
