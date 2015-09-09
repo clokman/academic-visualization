@@ -25,7 +25,7 @@ Examples:
 ## Interfaces
 - [Class Interface 1](http://clokman.com/hosting/SVP-Course/2015-UvA/Presentations/AVP_Workshop_Map-Public.swf)
 - [Class Interface 2](http://www.clokman.com/hosting/P-Course/SP-Map-Public.swf)
-- See Presentations
+- See [Presentations](presentations)
 
 ## Static Visualizations
 
