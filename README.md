@@ -1,1 +1,1 @@
-A repository for resources on academic visualization.
+This is a repository for resources on application of cognitive ergonomics in education.
