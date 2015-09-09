@@ -4,12 +4,14 @@ This documents contains examples of cognitive ergonomics in educational settings
 
 - [Ergonomic Statistics](https://github.com/clokman/academic-visualization/blob/master/Ergonomic%20Statistics.md)
 
-- Split screens
+## Split screens
 
 This approach allows putting the old, linear, and text-based language on one side of the screen, while putting on the right side the modern, interactive, and visual representations of what is going on the left side.   
-	- [Statistics](http://clokman.com/hosting/StatsVis/standard_deviation.swf) - An animation that is part of the "StatsVis Project" - This is a very early draft and needs corrections. The final version will be a remake in split-screen style.
-	- [Programming](https://vimeo.com/36579366) - Examples of interactive programming are in first ~20 minutes of the video.
-	- Dual articles -- Work in progress
+
+Examples:
+- [Statistics](http://clokman.com/hosting/StatsVis/standard_deviation.swf) - An animation that is part of the "StatsVis Project" - This is a very early draft and needs corrections. The final version will be a remake in split-screen style.
+- [Programming](https://vimeo.com/36579366) - Examples of interactive programming are in first ~20 minutes of the video.
+- Dual articles -- Work in progress
 
 # Ergonomy in Communication and Education
 
