@@ -2,11 +2,9 @@
 
 - [Ergonomic Statistics](https://github.com/clokman/academic-visualization/blob/master/Ergonomic%20Statistics.md)
 
-- [StatsVis](http://clokman.com/hosting/StatsVis/standard_deviation.swf)
-
 - Split screens
-	- Statistics
-	- Code
+	- [Statistics](http://clokman.com/hosting/StatsVis/standard_deviation.swf) - An animation that is part of the "StatsVis Project" - This is a very early draft and needs corrections. The final version will use a split-screen apporach.
+	- [Programming](https://vimeo.com/36579366) - Examples of interactive programming are in first ~20 minutes of the video.
 
 # Ergonomy in Communication and Education
 
