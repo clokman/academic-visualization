@@ -1,4 +1,4 @@
-This documents contains examples of cognitive ergonomics in educational settings. The focus is communication of sophisticated information in an enjoyable and comprehensible manner.
+This documents contains examples of cognitive ergonomics in educational settings. The focus is on communication of sophisticated information in an enjoyable and comprehensible manner.
 
 # Ergonomy in Technical Subjects
 
