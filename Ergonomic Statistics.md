@@ -41,10 +41,10 @@ Animations below are mostly from geometry and maths (except Fourier transform, w
     + I am scared of [this](http://clokman.com/hosting/SVP-Course/2014-UvA/Materials/Misc/Euclid-Casey.pdf) book; it is almost saying "you have to be really smart to read me. And you're probably not." This is encrypted knowledge.
         ![](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/book-images/casey3-2.png)
 
-    + But I am not scared of this one (Bryne). It's beautiful and inviting (and ancient; the book is from 1850s). Hard to believe it's communicating the same knowledge with the above book.
+    + But I am not scared of this one (Bryne). It's beautiful and inviting (and ancient; the book is from 1850s). Hard to believe it's communicating the exact same knowledge with the above book.
         ![](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/book-images/bryne2.png)
         ![](http://clokman.com/hosting/SVP-Course/2015-UvA/Materials/Misc/book-images/bryne3.png)
-    Bryne's book is on geometry, but his approach is compatible with what we'd be doing on statistics. Reading his foreword is highly recommended; it is very much in alignment with our vision and I find it quite inspiring (concise and highlighted version of foreword is [here](http://clokman.com/hosting/SVP-Course/2014-UvA/Materials/Misc/Intro-Byrne.pdf)).
+    Bryne's book is on geometry, but his approach is compatible with what can be done for statistics. Reading his foreword is highly recommended; it is very much in alignment with a cognitive ergonomics approach for education and I find it quite inspiring (concise and highlighted version of foreword is [here](http://clokman.com/hosting/SVP-Course/2014-UvA/Materials/Misc/Intro-Byrne.pdf)).
 
         Bryne's book is a good example showing that everything can be visualized and made more ergonomic (including technical knowlede that would scare most people's attention away otherwise). To best of my knowlede, no one tried to make statistics as accessible this much using Bryne's approach, despite the great need. 
 
@@ -59,7 +59,7 @@ Animations below are mostly from geometry and maths (except Fourier transform, w
 
 ---
 
-# II - Doing Statistics Ergonomically
+# II - **Doing** Statistics Ergonomically
 
 - [JASP](https://jasp-stats.org/):
     A beautifully simple and open-source stats package that is being developed by UvA. "Slimmer than SPSS, more delicious than R". The software has instant gratification and ergonomics built at it's core (the demo video below is a must watch if you have ever used SPSS, and hated it); and has a context-sensitive help panel on the left side which can be customized for educational purposes. It is also open source.
