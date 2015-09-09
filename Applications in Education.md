@@ -6,7 +6,7 @@ This documents contains examples of cognitive ergonomics in educational settings
 
 ## Split screens
 
-This approach allows putting the old, linear, and text-based language on one side of the screen, while putting on the right side the modern, interactive, and visual representations of what is going on the left side.   
+This approach allows putting the old, linear, and text-based language on one side of the screen, while putting on the right side the modern, interactive, and visual representations of what is going on the left side. The benefit of this apporach is the instant viewing of results of one's actions (~interactivity).
 
 Examples:
 - [Statistics](http://clokman.com/hosting/StatsVis/standard_deviation.swf) - An animation that is part of the "StatsVis Project" - This is a very early draft and needs corrections. The final version will be a remake in split-screen style.
