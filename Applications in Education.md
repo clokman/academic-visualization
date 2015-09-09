@@ -25,14 +25,17 @@ Examples:
 ## Interfaces
 - [Class Interface 1](http://clokman.com/hosting/SVP-Course/2015-UvA/Presentations/AVP_Workshop_Map-Public.swf)
 - [Class Interface 2](http://www.clokman.com/hosting/P-Course/SP-Map-Public.swf)
-- See [Presentations](presentations)
+- See "Presentations" section.
 
 ## Static Visualizations
 
-### Article Visualization
+### Visual abstracts
+Work in progress
+
+### Articles
 ![](http://samples.clokman.com/samples_files/png_7.png)
 ![](http://samples.clokman.com/samples_files/png_6.png)
 ![](http://samples.clokman.com/samples_files/png_8.png)
 
-### Code Visualization
+### Code
 ![](http://samples.clokman.com/samples_files/png_11.png)
