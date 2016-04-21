@@ -67,7 +67,7 @@ Animations below are mostly from geometry and maths (except Fourier transform, w
 
 - [Tableau](http://get.tableau.com/trial/tableau-9-0.html?cid=70160000000YF0Q&ls=Paid%20Search&lsd=Google%20AdWords%20-%20Tableau%20-%20EMEA%20-%20Other%20-%20Free%20Trial&adgroup=Tableau%20-%20Exact&kw=tableau&adused=67742452822&distribution=search&gclid=CjwKEAjwzuisBRClgJnI4_a96zwSJACAEZKeuYOZ_65BWnMAIomEzEyLJdMw0gn4U-nQZybg9D9GlxoCIsTw_wcB):
     Polished and ergonomic stats package for business analytics. Can be repurposed for stats education.
-    [Demo](https://vimeo.com/58727174)
+    [Demo 1](https://vimeo.com/58727174) [Demo 2](https://www.youtube.com/watch?v=Z5kQR71yJpE)
 
 - [Wolfram Alpha](https://www.wolframalpha.com/):
     Fast, efficient, and highly visual statistics engine for basic operations.
