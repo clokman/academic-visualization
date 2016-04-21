@@ -73,6 +73,8 @@ Animations below are mostly from geometry and maths (except Fourier transform, w
     Fast, efficient, and highly visual statistics engine for basic operations.
     [Example usage scenarios for statistics](https://www.wolframalpha.com/examples/Statistics.html)
 
+- [Gephi](https://vimeo.com/9726202): A visual network visualization tool.
+
 ----
 
 Also see: 
@@ -80,3 +82,5 @@ Also see:
 - [Neural Networks](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.73651&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification) — Thanks to Alexander for the link. 
 
 - [Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) — Thanks to Alexander for the link. 
+
+
