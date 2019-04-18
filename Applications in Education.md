@@ -3,7 +3,6 @@ This documents contains examples of cognitive ergonomics in educational settings
 # Ergonomy in Technical Subjects
 
 - [Ergonomic Statistics](https://github.com/clokman/academic-visualization/blob/master/Ergonomic%20Statistics.md)
-- [Dynamicland](https://dynamicland.org)
 
 ## Split screens
 
